@@ -1,10 +1,10 @@
 About Me:
 
-My name is Debashis Sharma . I am a BCA 2nd year student . I am a hacker and a backend developer . I can code in 4-5 language which include Node.js,php,python and C . I did some freelance
+My name is Debashis Sharma . I am a BCA 2nd year student . I am a hacker and a backend developer . I can code in 4-5 language which include Node.js,php,python and C . 
 
-projects as a developer . I am also getting started in bug hunting . My complete focus is on mobile apps . I found bugs in two apps . I am good at pen-testing linux systems . I am looking 
+I did some freelance projects as a developer . I am also getting started in bug hunting . My complete focus is on mobile apps .
 
-for remote  jobs,internships .
+I found bugs in two apps . I am good at pen-testing linux systems . I am looking  for remote jobs,internships .
 
 Areas Of Expertise
 
