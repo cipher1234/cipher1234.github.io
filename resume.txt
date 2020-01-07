@@ -18,15 +18,17 @@ Areas Of Expertise
 
 Experience
 
-I worked as a freelance web-developer for two years and developed countless websites,API etc . I was also a developer of a software called MalwareHub which provides research malwares
+I worked as a freelance web-developer for two years and developed countless websites,API etc . I was also a developer of a 
 
-for students to work on . 
+software called MalwareHub which provides research malwares for students to work on . 
 
 Personal Projects
 
 1.Blink- A music streaming API for local network . Also can be used as API hacking lab . 
 
-2.HackPI - A modified version of raspbian with different modes and vulnerabilites to practise hacking and host small CTF
+2.HackPI - A modified version of raspbian with different modes and vulnerabilites to practise hacking in labs 
+
+host small CTF
 
 3.Various random projects
 
