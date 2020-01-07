@@ -1,0 +1,40 @@
+About Me:
+
+My name is Debashis Sharma . I am a BCA 2nd year student . I am a hacker and a backend developer . I can code in 4-5 language which include Node.js,php,python and C . I did some freelance
+
+projects as a developer . I am also getting started in bug hunting . My complete focus is on mobile apps . I found bugs in two apps . I am good at pen-testing linux systems . I am looking 
+
+for remote  jobs,internships .
+
+Areas Of Expertise
+
+1.Python
+
+2.PHP
+
+3.Node.js
+
+4.MongoDB
+
+Experience
+
+I worked as a freelance web-developer for two years and developed countless websites,API etc . I was also a developer of a software called MalwareHub which provides research malwares
+
+for students to work on . 
+
+Personal Projects
+
+1.Blink- A music streaming API for local network . Also can be used as API hacking lab . 
+
+2.HackPI - A modified version of raspbian with different modes and vulnerabilites to practise hacking and host small CTF
+
+3.Various random projects
+
+Contact:
+
+Phone: 8638836512
+
+Github: https://github.com/cipher1234
+
+Medium: https://medium.com/@ciph3r
+ 
