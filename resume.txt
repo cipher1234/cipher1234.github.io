@@ -4,7 +4,9 @@ My name is Debashis Sharma . I am a BCA 2nd year student . I am a hacker and a b
 
 I did some freelance projects as a developer . I am also getting started in bug hunting . My complete focus is on mobile apps .
 
-I found bugs in two apps . I am good at pen-testing linux systems . I am looking  for remote jobs,internships .
+I have two hall of fame .I also found a bug in linkedin but sadly they don't have a public hall of fame .  I am good at pen-
+
+testing linux systems . I am looking  for remote jobs,internships .
 
 Areas Of Expertise
 
